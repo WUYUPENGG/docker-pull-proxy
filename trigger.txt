@@ -1,1 +1,1 @@
-grafana/loki:2.8.2 registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/loki:2.8.2
+bitnami/mysqld-exporter:0.15.1 registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/mysqld-exporter:0.15.1
