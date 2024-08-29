@@ -1,1 +1,1 @@
-zilliz/attu:v2.3.10 registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/attu:2.3.10
+golang:alpine registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/golang:alpine
