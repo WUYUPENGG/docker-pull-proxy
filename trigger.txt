@@ -1,1 +1,1 @@
-bitnami/alertmanager:0.27.0 registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/alertmanager:0.27.0
+bitnami/node-exporter:1.7.0 registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/node-exporter:1.7.0
