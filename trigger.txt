@@ -1,1 +1,1 @@
-loki:2.8.2 registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/loki:2.8.2
+grafana/loki:2.8.2 registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/loki:2.8.2
