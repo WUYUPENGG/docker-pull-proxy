@@ -1,1 +1,1 @@
-golang:1.15.15 registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/golang:1.15.15
+bitnami/prometheus:2.48.1 registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/prometheus:2.48.1
