@@ -1,1 +1,1 @@
-grafana/grafana:10.2.2 registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/grafana:10.2.2
+golang:1.15.15 registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/golang:1.15.15
