@@ -1,1 +1,1 @@
-bitnami/prometheus:2.48.1 registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/prometheus:2.48.1
+ollama/ollama:latest registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/ollama:latest
