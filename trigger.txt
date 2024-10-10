@@ -1,1 +1,1 @@
-ollama/ollama:latest registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/ollama:latest
+node:18.19.1 registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/node:18.19.1
