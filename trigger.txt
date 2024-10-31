@@ -1,1 +1,1 @@
-node:18.19.1 registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/node:18.19.1
+golang:1.12.17 registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/golang:1.12.17
