@@ -1,1 +1,1 @@
-node:18 registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/node:18
+ubuntu:22.04 registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/ubuntu:22.04
