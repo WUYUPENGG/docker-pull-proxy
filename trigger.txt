@@ -1,1 +1,1 @@
-ubuntu:22.04 registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/ubuntu:22.04
+mongo:6.0.20-rc2 registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/mongo:6.0.20-rc2
