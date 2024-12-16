@@ -1,1 +1,1 @@
-mongo:6.0.20-rc2 registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/mongo:6.0.20-rc2
+node:18.18.0-buster registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/node:18.18.0-buster
