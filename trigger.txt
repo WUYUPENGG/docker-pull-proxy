@@ -1,1 +1,1 @@
-node:18.18.0-buster registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/node:18.18.0-buster
+heartexlabs/label-studio-ml-backend:sam-master registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/heartexlabs/label-studio-ml-backend:sam-master
