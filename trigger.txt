@@ -1,1 +1,1 @@
-heartexlabs/label-studio-ml-backend:sam-master  registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/heartexlabs/label-studio-ml-backend:latest
+heartexlabs/label-studio-ml-backend:sam-master  registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/label-studio-ml-backend:sam-master
