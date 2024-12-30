@@ -1,1 +1,1 @@
-heartexlabs/label-studio-ml-backend:sam-master  registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/label-studio-ml-backend:sam-master
+golang:1.17.5-alpine  registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/golang:1.17.5-alpine
