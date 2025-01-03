@@ -1,1 +1,1 @@
-golang:1.17.5-alpine  registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/golang:1.17.5-alpine
+openjdk:8u342  registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/openjdk:8u342-x86
