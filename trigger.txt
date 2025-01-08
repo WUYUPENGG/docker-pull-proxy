@@ -1,1 +1,1 @@
-amazoncorretto:11.0.25  registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/amazoncorretto:11.0.25
+wurstmeister/zookeeper:3.4.6  registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/zookeeper:3.4.6
