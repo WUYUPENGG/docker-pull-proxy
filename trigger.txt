@@ -1,1 +1,1 @@
-nginx:1.22.1  registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/nginx:1.22.1
+bitnami/openresty:1.27.1-1  registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/openresty:1.27.1-1
