@@ -1,1 +1,1 @@
-schemathesis/schemathesis:stable  registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/schemathesis:stable
+grafana/loki:3.3.2  registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/grafana/loki:3.3.2
