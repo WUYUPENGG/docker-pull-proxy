@@ -1,1 +1,1 @@
-grafana/loki:3.3.2  registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/loki:3.3.2
+jetbrains/teamcity-server:2024.12.2  registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/teamcity-server:2024.12.2
