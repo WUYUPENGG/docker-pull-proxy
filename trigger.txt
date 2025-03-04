@@ -1,1 +1,1 @@
-jetbrains/teamcity-server:2024.12.2  registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/teamcity-server:2024.12.2
+ubuntu:22.04  registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/ubuntu:arm64
