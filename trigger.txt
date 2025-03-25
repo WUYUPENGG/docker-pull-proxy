@@ -1,1 +1,1 @@
-ghcr.io/huggingface/text-embeddings-inference:latest  registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/text-embeddings-inference:latest
+ubuntu:24.04  registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/ubuntu:24.04
