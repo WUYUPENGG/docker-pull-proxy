@@ -1,1 +1,1 @@
-jianjungki/mineru:latest  registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/mineru:latest
+sophgo/tpuc_dev:v2.2  registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/tpuc_dev:v2.2
