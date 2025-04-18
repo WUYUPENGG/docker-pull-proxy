@@ -1,1 +1,1 @@
-sophgo/tpuc_dev:v2.2  registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/tpuc_dev:v2.2
+erikvullings/mineru-api:gpu  registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/mineru-api:gpu
