@@ -1,1 +1,1 @@
-erikvullings/mineru-api:gpu  registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/mineru-api:gpu
+ghcr.io/open-webui/open-webui:main  registry.cn-hangzhou.aliyuncs.com/docker-pull-proxy-xw/open-webui:main
